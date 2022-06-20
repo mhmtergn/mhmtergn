@@ -12,3 +12,5 @@ I am Ios & Flutter Developer ~ Self Learner
 
 ⚡ Fun fact: Coding, Camping, Reading
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmtergn)](https://github.com/anuraghazra/github-readme-stats)
+

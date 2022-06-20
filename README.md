@@ -18,9 +18,6 @@
 <a href="https://www.youtube.com/c/fjtjmk1b-iwatd9sda708w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fjtjmk1b-iwatd9sda708w" height="30" width="40" /></a>
 </p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mhmtergn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehmet-ergun-7525b358//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrmehmetergun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/fjtJMK1B-iWaTD9SDa708w)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtergn)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmtergn&show_icons=true)  

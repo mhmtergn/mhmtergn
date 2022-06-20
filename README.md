@@ -1,8 +1,6 @@
 ### Hi there 👋, My name is Mehmet
 #### Ios & Flutter Developer
 
-
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Swift 
 - 💬 Ask me about Mobile Application Development 
 - 📫 How to reach me: mrmehmetergun@gmail.com 

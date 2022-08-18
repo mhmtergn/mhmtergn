@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Mehmet
-#### Ios & Flutter Developer
+#### iOS & Flutter Developer
 
 - 🌱 I’m currently learning Swift 
 - 💬 Ask me about Mobile Application Development 
